@@ -1,0 +1,18 @@
+.tab-header {
+  cursor: pointer;
+  padding: 10px;
+}
+
+.tab-header.selected {
+  background: blue;
+  color: white;
+}
+
+.tab-content-container {
+  border: 1px solid gray;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+}
